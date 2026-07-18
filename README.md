@@ -1,4 +1,10 @@
-# Hi, I'm Arpit 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Hi%20There,%20I'm%20Arpit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20GenAI%20Enthusiast&descAlignY=55&descSize=18)
+
+<p align="center">
+  <a href="https://linkedin.com/in/arpitkumar23">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Experience+Engineer;Full-Stack+Developer+(React+%2B+Node.js);AEM+%2B+Java+Backend+Engineer;Exploring+Agentic+AI+%26+GenAI;Building+cool+things+with+code+%F0%9F%9A%80&font=Fira+Code&center=true&width=550&height=40&color=2563EB&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
 Senior Experience Engineer & Full-Stack Developer with 5+ years building and scaling web applications across automotive, EdTech, HR-tech, and enterprise SaaS.
 
@@ -8,7 +14,11 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 - 🌱 Exploring: Agentic AI workflows and using AI to automate frontend component generation, alongside deepening my Java backend skills
 - 📫 Reach me: arpit23111999@gmail.com · [LinkedIn](https://linkedin.com/in/arpitkumar23)
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,vue,redux,tailwind,nodejs,nestjs,postgres,docker,git,github,jira&perline=8" />
+</p>
 
 **Languages:** JavaScript · TypeScript · Java  
 **Frontend:** React · Next.js · Vue.js · Redux Toolkit · Tailwind CSS  
@@ -26,6 +36,21 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 - **In-Browser Translation Extension** — Chrome extension for real-time bilingual translation using GenAI
 
 *(See pinned repos below for personal projects.)*
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-cyber&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arpit-cyber&color=2563EB&style=flat" alt="Profile views" />
+</p>
 
 ---
 ⭐️ Open to interesting conversations about full-stack architecture, GenAI integration, or performance engineering.
