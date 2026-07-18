@@ -33,9 +33,22 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 
 - **Service Contract & Notification Systems** (Publicis Sapient) — increased purchase frequency 30%, site traffic 8%
 - **AI-Powered Learning Suggestions** (Pearson/Magic EdTech) — real-time, context-aware feature increasing engagement 18%
-- **In-Browser Translation Extension** — Chrome extension for real-time bilingual translation using GenAI
+- **Chrome Extension Suite** (Telus) — built 3 production extensions spanning GenAI translation, facial-recognition identity verification, and biometric asset verification
 
 *(See pinned repos below for personal projects.)*
+
+## 🧭 Career Snapshot
+
+| Role | Company | Focus |
+|---|---|---|
+| Senior Experience Engineer | Publicis Sapient | Automotive commerce platform, technical solutioning |
+| Senior Software Engineer | Magic EdTech (Pearson) | AI-powered EdTech features |
+| Application Developer | Telus International | HR-tech, identity & biometric systems |
+| Software Developer | Innostax Software Labs | Telehealth & compliance platforms |
+
+## 🤝 Leadership
+
+Beyond shipping code, I mentor and review — currently guiding a team of 3 developers at Publicis Sapient, having previously mentored 4 junior engineers at Telus. 🏆 Recipient of the **Spotlight Award** at Telus International.
 
 ## 📊 GitHub Stats
 
