@@ -54,13 +54,12 @@ Beyond shipping code, I mentor and review — currently guiding a team of 3 deve
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=buildswitharpit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=buildswitharpit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
     alt="GitHub Stats"
   />
-
   <img
-    height="165"
+    width="49%"
     src="https://streak-stats.demolab.com?user=buildswitharpit&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
@@ -68,7 +67,8 @@ Beyond shipping code, I mentor and review — currently guiding a team of 3 deve
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildswitharpit&layout=compact&theme=tokyonight&hide_border=true"
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildswitharpit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
