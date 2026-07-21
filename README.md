@@ -11,20 +11,20 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 - 🔭 Currently leading technical solutioning for a global automotive parts & service platform at **Publicis Sapient**
 - 🧠 Focused on **React, Node.js, TypeScript**, and integrating **GenAI** into real products
 - 🏗️ Also work with enterprise CMS (**Adobe Experience Manager**) and Java backends
-- 🌱 Exploring: Agentic AI workflows and using AI to automate frontend component generation, alongside deepening my Java backend skills
+- 🌱 Growing a self-driven **Spring Boot / Spring Cloud portfolio** — 9 backend projects shipped so far, from CRUD APIs up through a JWT-secured, service-discovery-backed microservices system (see below)
 - 📫 Reach me: arpit23111999@gmail.com · [LinkedIn](https://linkedin.com/in/arpitkumar23)
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,vue,redux,tailwind,nodejs,nestjs,postgres,docker,git,github,jira&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,vue,redux,tailwind,nodejs,nestjs,spring,postgres,redis,docker,git,github,jira&perline=9" />
 </p>
 
 **Languages:** JavaScript · TypeScript · Java  
 **Frontend:** React · Next.js · Vue.js · Redux Toolkit · Tailwind CSS  
-**Backend:** Node.js · NestJS · RESTful APIs  
+**Backend:** Node.js · NestJS · Spring Boot · Spring Cloud (Eureka, Gateway, OpenFeign) · Spring Security · RESTful APIs  
 **CMS:** Adobe Experience Manager (AEM)  
-**Database:** PostgreSQL  
+**Database:** PostgreSQL · Redis  
 **Tools:** Docker · Git · GitHub Actions · JIRA
 
 ## Highlighted Work
@@ -36,6 +36,28 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 - **Chrome Extension Suite** (Telus) — built 3 production extensions spanning GenAI translation, facial-recognition identity verification, and biometric asset verification
 
 _(See pinned repos below for personal projects.)_
+
+## 🧩 Java Backend Portfolio
+
+A self-driven series of 9 Spring Boot projects, each built production-style — layered architecture, validation, tests, Docker, and Swagger/OpenAPI docs — progressing from a beginner CRUD API up through a JWT-secured, multi-service microservices system with Eureka discovery and an API gateway.
+
+**Beginner**
+
+- **[Todo/Task Manager API](https://github.com/buildswitharpit/todo-task-manager)** — CRUD task management with pagination, filtering, and full validation; PostgreSQL or zero-setup H2
+- **[Blog/CMS Backend](https://github.com/buildswitharpit/blog-cms-backend)** — posts, categories, and nested comments, with auto-generated unique slugs and draft/publish workflow
+
+**Intermediate**
+
+- **[URL Shortener](https://github.com/buildswitharpit/url-shortener)** — custom short codes, Redis cache-aside redirects, and click analytics
+- **[Library Management System](https://github.com/buildswitharpit/library-management-system)** — book catalog, member registry, borrow/return workflow with automatic copy tracking and Spring Scheduler-driven due-date reminders
+- **[Expense Tracker](https://github.com/buildswitharpit/expense-tracker)** — categorized expenses, date-range filtering, monthly spending reports, and CSV export
+
+**Advanced**
+
+- **[E-commerce Backend](https://github.com/buildswitharpit/ecommerce-backend)** — JWT auth (access + rotating refresh tokens), cart/checkout, optimistic-locked inventory, and a pluggable mock/Stripe payment gateway
+- **[Job Board / Freelance Platform](https://github.com/buildswitharpit/job-board-platform)** — dual candidate/employer roles, resume uploads, application workflow, and real email notifications via Mailpit
+- **[Real-time Chat App](https://github.com/buildswitharpit/realtime-chat-app)** — JWT-authenticated STOMP-over-WebSocket messaging, room-membership authorization, persisted history, and online presence
+- **[E-commerce Microservices](https://github.com/buildswitharpit/ecommerce-microservices)** — the same e-commerce domain split into independently deployable `user`/`inventory`/`order` services behind an API Gateway, with Eureka service discovery, Feign + circuit-breaker inter-service calls, and shared-secret JWT validation across services
 
 ## 🧭 Career Snapshot
 
@@ -53,31 +75,11 @@ Beyond shipping code, I mentor and review — currently guiding a team of 3 deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=buildswitharpit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=buildswitharpit&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=buildswitharpit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildswitharpit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=buildswitharpit&color=2563EB&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=buildswitharpit&color=2563EB&style=flat" alt="Profile views" />
 </p>
 
 ---
