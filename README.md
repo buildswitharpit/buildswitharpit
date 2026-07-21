@@ -35,16 +35,16 @@ Senior Experience Engineer & Full-Stack Developer with 5+ years building and sca
 - **AI-Powered Learning Suggestions** (Pearson/Magic EdTech) — real-time, context-aware feature increasing engagement 18%
 - **Chrome Extension Suite** (Telus) — built 3 production extensions spanning GenAI translation, facial-recognition identity verification, and biometric asset verification
 
-*(See pinned repos below for personal projects.)*
+_(See pinned repos below for personal projects.)_
 
 ## 🧭 Career Snapshot
 
-| Role | Company | Focus |
-|---|---|---|
-| Senior Experience Engineer | Publicis Sapient | Automotive commerce platform, technical solutioning |
-| Senior Software Engineer | Magic EdTech (Pearson) | AI-powered EdTech features |
-| Application Developer | Telus International | HR-tech, identity & biometric systems |
-| Software Developer | Innostax Software Labs | Telehealth & compliance platforms |
+| Role                       | Company                | Focus                                               |
+| -------------------------- | ---------------------- | --------------------------------------------------- |
+| Senior Experience Engineer | Publicis Sapient       | Automotive commerce platform, technical solutioning |
+| Senior Software Engineer   | Magic EdTech (Pearson) | AI-powered EdTech features                          |
+| Application Developer      | Telus International    | HR-tech, identity & biometric systems               |
+| Software Developer         | Innostax Software Labs | Telehealth & compliance platforms                   |
 
 ## 🤝 Leadership
 
@@ -53,17 +53,18 @@ Beyond shipping code, I mentor and review — currently guiding a team of 3 deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-cyber&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buildswitharpit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=buildswitharpit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildswitharpit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arpit-cyber&color=2563EB&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=buildswitharpit&color=2563EB&style=flat" alt="Profile views" />
 </p>
 
 ---
+
 ⭐️ Open to interesting conversations about full-stack architecture, GenAI integration, or performance engineering.
